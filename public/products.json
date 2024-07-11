@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "productName": "Wireless Mouse",
+      "productDetails": "A sleek and ergonomic wireless mouse with a 2-year battery life.",
+      "price": 25.99
+    },
+    {
+      "id": 2,
+      "productName": "Mechanical Keyboard",
+      "productDetails": "A durable mechanical keyboard with customizable RGB lighting and programmable keys.",
+      "price": 79.99
+    },
+    {
+      "id": 3,
+      "productName": "27-inch Monitor",
+      "productDetails": "A high-resolution 27-inch monitor with a 144Hz refresh rate and HDR support.",
+      "price": 299.99
+    },
+    {
+      "id": 4,
+      "productName": "External Hard Drive",
+      "productDetails": "A portable 1TB external hard drive with USB 3.0 connectivity and fast data transfer speeds.",
+      "price": 59.99
+    },
+    {
+      "id": 5,
+      "productName": "Noise-Cancelling Headphones",
+      "productDetails": "Comfortable over-ear headphones with active noise-cancelling technology and 30 hours of battery life.",
+      "price": 199.99
+    }
+  ]
